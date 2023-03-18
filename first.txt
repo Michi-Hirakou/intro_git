@@ -1,2 +1,4 @@
 git test
 •ÏX1
+git add
+git commit
